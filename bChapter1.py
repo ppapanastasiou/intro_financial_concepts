@@ -1,6 +1,8 @@
 import numpy_financial
 import numpy as np
 
+# added one line
+
 # Growth and rate of return
 # Growth and Rate of Return are two concepts that are ubiquitous throughout the financial world.
 # Recall that the cumulative returns from investing $100 in an asset that grows at 5% per year, over a 2 year period can be calculated as:
